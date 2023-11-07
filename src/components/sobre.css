@@ -1,0 +1,15 @@
+.SobreDiv{
+    height: 70vh;
+    width: 100%;
+    background-color: rgba(22, 36, 52, 1);
+}
+.SobreWord{
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+.SobrePic{
+    height: 100%;
+    width: 50%;
+    float: right;
+}
