@@ -1,0 +1,7 @@
+.XPBACK{
+    height: 100vh;
+    background-image: url('J:\Projetos React\web\public\macbook.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:rgba(23, 30, 49, 0.41);
+}

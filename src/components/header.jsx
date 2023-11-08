@@ -7,7 +7,7 @@ function Header() {
             <ul className='ulHeader'>
                 <li className='itemHeader'>Sobre mim</li>
                 <li className='itemHeader'>Experiência</li>
-                <li className='itemHeader'>Habilidadess</li>
+                <li className='itemHeader'>Habilidades</li>
                 <li className='itemHeader'>Contato</li>
             </ul>
         </div>

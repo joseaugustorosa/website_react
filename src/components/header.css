@@ -60,5 +60,57 @@
 .Subtitle{
     padding-top:20px;
     color: white;
-    font-size: 27px;
+    font-size: 25px;
+}
+.linhaXP{
+    float: left;
+    margin: auto;
+    
+    height: 90%;
+    width: 2px;
+    background-color: white;
+    text-align: center;
+}
+.conteudoXP{
+    
+    text-align: center;
+    height: 100%;
+    font-size: 20px;
+    width: 100%;
+}
+.esquerda{
+    width: 49%;
+    height: 100%;
+    float:left ;
+}
+.direita{
+    width: 49%;
+    height: 100%;
+    float: right;
+}
+.titleXp{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    padding: 25px;
+}
+.texte{
+    float: left;
+    margin-bottom: 20px;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    border:2px solid white;
+    margin-right: 10px;
+}
+.itensDireita{
+    display: inline-block;
+    color:white;
+    padding: 15px;
+    margin: 30px;
+    width: 90%;
+    
+}
+.esquerda{
+    padding-top:40px ;
 }
