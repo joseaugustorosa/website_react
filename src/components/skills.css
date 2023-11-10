@@ -1,0 +1,95 @@
+.skillssDiv{
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(6, 33, 95, 0.818);
+    background-image: url('J:\Projetos React\web\public\skills.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid white;
+   
+}
+.Blurr{
+    background-color: rgba(23, 31, 50, 0.74);
+    width: 100%;
+    height: 100%;
+
+}
+.titleSKIL{
+    color: white;
+    font-size: 45px;
+    text-align: center;
+    padding: 30px;
+
+}
+.listaIcons li{
+    display: inline-block;
+    width:100px;
+    margin: 50px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+
+
+.listaIcons {
+    text-align: center;
+    width: 80%;
+    margin: 30px auto;
+
+}
+.react{
+    background: url('J:\Projetos React\web\public\logo-react-icon.png');
+   
+}
+.python{
+    background: url('J:\Projetos React\web\public\Python-logo-notext.svg.png');
+   
+}
+.vue{
+    background: url('J:\Projetos React\web\public\Vue.js_Logo_2.svg.png');
+   
+}
+.jquery{
+    background: url('J:\Projetos React\web\public\icon_jquery.png');
+   
+}
+.js{
+    background: url('J:\Projetos React\web\public\Unofficial_JavaScript_logo_2.svg.png');
+   
+}
+.nest{
+    background: url('J:\Projetos React\web\public\logo-small.svg');
+   
+}
+.sql{
+    background: url('J:\Projetos React\web\public\sql.png');
+    height: 150px;
+   
+}
+.mongodb{
+    background: url('J:\Projetos React\web\public\mongo.png');
+}
+.lutter{
+    background: url('J:\Projetos React\web\public\unnamed.png');
+    
+}
+.kotlin{
+    background: url('J:\Projetos React\web\public\kotlin.jpg');
+    
+}
+.c{
+    background: url('J:\Projetos React\web\public\c].webp');
+    
+}
+.java{
+    background: url('J:\Projetos React\web\public\java.webp');
+    
+}
+.git{
+    background: url('J:\Projetos React\web\public\git.webp');
+   
+}
+.figma{
+    background: url('J:\Projetos React\web\public\figma.svg');
+   
+}

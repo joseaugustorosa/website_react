@@ -49,7 +49,7 @@
     margin: 35px auto;
 }
 .MeuNomeP{
-    font-size: 87px;
+    font-size:6vw;
     font-weight: bolder;
     color: white;
 
@@ -74,7 +74,8 @@
 .conteudoXP{
     
     text-align: center;
-    height: 100%;
+    height:80%;
+    padding-top: 20px;
     font-size: 20px;
     width: 100%;
 }
